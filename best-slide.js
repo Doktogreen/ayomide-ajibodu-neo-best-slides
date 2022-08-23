@@ -14,6 +14,6 @@ const bestSlide = (n) => {
     console.log("");
     return result;
 }
-console.log("Answer: ", bestSlide(4));
-console.log("Answer2: ", bestSlide(10));
+console.log("Answer:  ", bestSlide(4));
+console.log("Answer2:  ", bestSlide(10));
 

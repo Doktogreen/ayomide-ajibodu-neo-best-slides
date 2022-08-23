@@ -11,5 +11,5 @@ def bestSlide(n):
     print("")
     return result
 
-print("Answer: ", bestSlide(4))
-print("Answer2: ", bestSlide(10))
+print("Answer:  ", bestSlide(4))
+print("Answer2:  ", bestSlide(10))
